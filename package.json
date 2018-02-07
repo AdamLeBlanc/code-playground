@@ -1,0 +1,17 @@
+{
+  "name": "objects-arrays",
+  "version": "1.0.0",
+  "description": "Repository that contains examples of array and object usage in Javascript",
+  "main": "src/index.sj",
+  "scripts": {
+    "debug": "node --inspect-brk ./src/index.js",
+    "start": "node ./src/index.js"
+  },
+  "keywords": [
+    "javascript",
+    "tutorial"
+  ],
+  "author": "Adam LeBlanc",
+  "license": "MIT",
+  "dependencies": {}
+}
